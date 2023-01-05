@@ -1,0 +1,14 @@
+C:\Users\ricky\Documents\GitHub\Sistemi\Subnetting\Subnetting\bin\Debug\Subnetting.exe.config
+C:\Users\ricky\Documents\GitHub\Sistemi\Subnetting\Subnetting\bin\Debug\Subnetting.exe
+C:\Users\ricky\Documents\GitHub\Sistemi\Subnetting\Subnetting\bin\Debug\Subnetting.pdb
+C:\Users\ricky\Documents\GitHub\Sistemi\Subnetting\Subnetting\obj\Debug\Subnetting.csproj.AssemblyReference.cache
+C:\Users\ricky\Documents\GitHub\Sistemi\Subnetting\Subnetting\obj\Debug\Subnetting.csproj.CoreCompileInputs.cache
+C:\Users\ricky\Documents\GitHub\Sistemi\Subnetting\Subnetting\obj\Debug\Subnetting.exe
+C:\Users\ricky\Documents\GitHub\Sistemi\Subnetting\Subnetting\obj\Debug\Subnetting.pdb
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Subnetting\Subnetting\bin\Debug\Subnetting.exe.config
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Subnetting\Subnetting\bin\Debug\Subnetting.exe
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Subnetting\Subnetting\bin\Debug\Subnetting.pdb
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Subnetting\Subnetting\obj\Debug\Subnetting.csproj.AssemblyReference.cache
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Subnetting\Subnetting\obj\Debug\Subnetting.csproj.CoreCompileInputs.cache
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Subnetting\Subnetting\obj\Debug\Subnetting.exe
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Subnetting\Subnetting\obj\Debug\Subnetting.pdb
