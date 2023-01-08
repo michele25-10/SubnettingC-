@@ -30,8 +30,6 @@ namespace Subnetting
 
             Console.WriteLine("\n\n\n\n");
 
-            do
-            {
                 for (int i = 0; i < 4; i++)     //Inse risco i 4 ottetti della subnet mask
                 {
                     do
@@ -42,7 +40,6 @@ namespace Subnetting
                     } while (!check || !ipv4.CheckSubOct(sm[i]));   //Ripeti finche il contollo non è true e controllo sulla subnet mask
                 }
                 ipv4.setSubnetMask(sm);         //Setto la variabile
-            } while (!ipv4.checkFullSub());     //Cotrollo sull'intera subnet mask
 
             Console.Clear();
 

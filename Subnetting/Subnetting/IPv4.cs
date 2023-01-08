@@ -54,20 +54,6 @@ namespace Subnetting
             return true;
         }
 
-        public bool checkFullSub()          
-        {
-            for (int i = 0; i < 3; i++)
-            {
-                if (this.subnetMask[i] < this.subnetMask[i+1])
-                {
-                    //Se l'ottetto successivo è maggiore del precedente torna un errore
-                    return false;
-                }
-            }
-
-            return true;
-        }
-
         public void SetIp_address(byte[] Indirizzoip)        //Setto variabili della classe ipv4
         {
             this.ipAddress = Indirizzoip;
@@ -104,8 +90,8 @@ namespace Subnetting
         {
             return Math.Pow(2, Convert.ToDouble(this.GetCIDR().Count(bitHost => bitHost == '0')));
 
-            //Elevo al quadrato
-            //il getCidr e conto dove bitHost == 0 e sarà il numero che verrà elevato al quadrato
+            //Elevo 2 al numero
+            //del getCidr e conto dove bitHost == 0 
         }
 
         public double GetNumberUsableHost()
